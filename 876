@@ -1,0 +1,1 @@
+PhoenixMiner.exe -pool ethash.poolbinance.com:1800 -walzhaosu -worker gigisu -epsw x -asm 2 -dbg -1 -allpools 1 -mode 1
